@@ -12,4 +12,9 @@
     <string name="question_africa">The source of the Nile River is in Egypt.</string>
     <string name="question_americas">​T​h​e​ ​A​m​a​z​o​n​ ​R​i​v​e​r​ ​i​s​ ​t​h​e​ ​l​o​n​g​e​s​t​ ​r​i​v​e​r i​n​ ​t​h​e​ ​A​m​e​r​i​c​a​s​.</string>
     <string name="question_asia">Lake Baikal is the world\'s oldest and deepest freshwater lake.</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgement_toast">Cheating is wrong.</string>
+    <string name="title_activity_cheat">Cheat</string>
 </resources>
